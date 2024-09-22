@@ -2,7 +2,7 @@
 
 **Read this in other languages: [English](README.md), [中文](README_zh.md).**
 
-Backup your dotfiles and configuration files in other directories such as `/etc`.
+> Backup your dotfiles and configuration files in other directories such as `/etc`.
 
 ## Requirements
 
@@ -41,7 +41,7 @@ Create `dotbak.json` and add the files or directories you want to back up (refer
 
 ## Usage
 
-A very simple Python script that does not require any third-party libraries. Just run dotbak.py to start the backup.
+A very simple Python script that does not require any third-party libraries. Just run `dotbak.py` to start the backup.
 
 ```bash
 python3 dotbak.py
@@ -49,4 +49,4 @@ python3 dotbak.py
 
 ## Conclusion
 
-This is merely a script I use for backup. It has a single function and cannot restore your configuration files on a new system. If you need more advanced features to manage your dotfiles, you can refer to tools like Dotbot, yadm, etc.
+This is merely a script I use for backup. It has a single function and cannot restore your configuration files on a new system. If you need more advanced features to manage your dotfiles, you can refer to tools like [Dotbot](https://github.com/anishathalye/dotbot), [yadm](https://github.com/TheLocehiliosan/yadm) etc.

@@ -1,6 +1,6 @@
 # dotbak
 
-Backup your dotfiles and configuration files in other directories such as `/etc`.
+> Backup your dotfiles and configuration files in other directories such as `/etc`.
 
 ## 环境要求
 
@@ -48,4 +48,3 @@ python3 dotbak.py
 ## 结语
 
 仅仅是我平时用于备份的脚本，功能单一，无法在新系统中还原你的配置文件。如果你需要更高级的功能来管理你的 dotfiles，可以参考 [Dotbot](https://github.com/anishathalye/dotbot), [yadm](https://github.com/TheLocehiliosan/yadm) 等工具。
-
