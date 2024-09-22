@@ -1,0 +1,10 @@
+{
+  "home": [
+    ".vimrc",
+    ".config/nvim",
+    ".config/starship.toml"
+  ],
+  "etc": [
+    "vim"
+  ]
+}
